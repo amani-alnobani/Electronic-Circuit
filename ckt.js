@@ -5,18 +5,18 @@ alert("welcome to the site")
 var topic = prompt("what are you looking for?")
 
 
-while(topic!= "Introduction" && topic!= "Simple circuit")
+while(topic!= "I" && topic!= "S")
 {
   topic = prompt("try again!")
 }
 
 
-if (topic == "Introduction")
+if (topic == "I")
 {
   document.write("<p>"+"Read carefully"+"</p>")
 }
 
-else if (topic == "Simple circuit"){
+else if (topic == "S"){
   var numOread = prompt("how many times you want to see it?")
   for(var x=0; x < numOread; x++){
 
