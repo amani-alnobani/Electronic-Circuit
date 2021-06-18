@@ -9,16 +9,12 @@ header{
 }
  h1{
   float: left;
-<<<<<<< HEAD
   padding-left: 50px;
-=======
->>>>>>> ad6eaf80269ffe812f8e996347220a07b103ef9b
 
 } 
 a {
   float: right;
   padding: 30px;
-<<<<<<< HEAD
   text-decoration: none;
 }
 .hp {
@@ -26,17 +22,14 @@ a {
   margin: 100px 100px 100px 100px;
   padding: 50px 50px 50px 50px;
 }
-=======
-}
 
->>>>>>> ad6eaf80269ffe812f8e996347220a07b103ef9b
+
 p{
   background-color: rgb(247, 210, 176);
   margin: 50px;
   padding: 30px;
 }
 
-<<<<<<< HEAD
 .ss{
   background-color: rgb(180, 180, 75);
   margin: 50px 50px 100px 100px;
@@ -59,15 +52,12 @@ p{
   width: 250px;
   height: 250px;
  }
-=======
 
 
  img{
   width: 300px;
   height: 300px;
 } 
->>>>>>> ad6eaf80269ffe812f8e996347220a07b103ef9b
-
 div img{
   padding: 50px
 }
