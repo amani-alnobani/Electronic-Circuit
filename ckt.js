@@ -4,13 +4,16 @@ alert("welcome to the site")
 
 var topic = prompt("what are you looking for?")
 
-
+function TopicInSite(){
 while(topic!= "I" && topic!= "S")
 {
   topic = prompt("try again!")
 }
+}
 
+TopicInSite()
 
+function ChosenTopic(){
 if (topic == "I")
 {
   document.write("<p>"+"Read carefully"+"</p>")
@@ -28,3 +31,5 @@ else
  {
   alert("sorry pick some thing else")
  }
+}
+ChosenTopic()
